@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FBTest</string>
+    <string name="background">Background</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up_here">Sign up here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account">Do you have an account?</string>
+    <string name="login_here">Login here</string>
+    <string name="email">Email</string>
+</resources>
